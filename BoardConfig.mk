@@ -63,7 +63,5 @@ TW_USE_FSCRYPT_POLICY := 2
 TW_FORCE_KEYMASTER_VER := true
 TW_PREPARE_DATA_MEDIA_EARLY := true
 
-# board
-include device/android/common/BoardConfigCommon.mk
 
 
