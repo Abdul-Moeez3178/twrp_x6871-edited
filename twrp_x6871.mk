@@ -16,7 +16,7 @@ PRODUCT_MANUFACTURER := infinix
 
 PRODUCT_GMS_CLIENTID_BASE := android-infinix
 
-$(call inherit-product, device/android/common/device.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 
 ENABLE_VIRTUAL_AB := true
 
