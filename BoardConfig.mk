@@ -16,6 +16,13 @@
 
 DEVICE_PATH := device/tecno/LH8n
 
+# Architecture
+TARGET_ARCH := arm64
+TARGET_ARCH_VARIANT := armv8-2a
+TARGET_CPU_ABI := arm64-v8a
+TARGET_CPU_ABI2 :=
+TARGET_CPU_VARIANT := generic
+
 # Assert
 TARGET_OTA_ASSERT_DEVICE := INIFNIX-X6871
 
