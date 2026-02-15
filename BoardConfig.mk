@@ -62,7 +62,7 @@ TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 2460
 TARGET_SCREEN_DENSITY := 480
 TW_FRAMERATE := 120
-TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightne
+TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness
 
 # boot
 BOARD_VENDOR_BOOTIMAGE_PARTITION_SIZE := 67108864
