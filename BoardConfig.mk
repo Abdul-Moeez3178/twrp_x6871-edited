@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/tecno/LH8n
+DEVICE_PATH := device/infinix/x6871
 
 # Architecture
 TARGET_ARCH := arm64
