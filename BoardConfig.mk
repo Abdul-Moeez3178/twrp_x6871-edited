@@ -16,6 +16,8 @@
 
 DEVICE_PATH := device/infinix/x6871
 
+ALLOW_MISSING_DEPENDENCIES := true
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_SUPPORTS_64_BIT_APPS := true
